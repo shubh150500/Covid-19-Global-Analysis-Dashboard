@@ -1,6 +1,6 @@
 # Covid-19_Global_Analytics_Power_BI_Project
 COVID-19 Analytics Power BI Dashboard
-![custom_thumb1620127439](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/e87ee8d0-713e-4497-a096-f7677e3038d5)
+![custom_thumb1620127439](
 
 
 ## Overview
